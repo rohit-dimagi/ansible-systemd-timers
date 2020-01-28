@@ -6,7 +6,7 @@
       1337TelegramBot:
         timer_command: /home/telegrambot/sendMessage.pl
         timer_user: telegrambot
-        timer_OnCalendar: "*-*-* 13:37:00 CET"
+        timer_OnCalendar: "*-*-* 13:37:00"
         timer_AccuracySec: 5s
   roles:
     - role: systemd_timers
